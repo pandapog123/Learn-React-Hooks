@@ -1,0 +1,21 @@
+code {
+  background-color: salmon;
+  color: white;
+  padding: 2px;
+  border-radius: 4px;
+}
+
+.flex {
+  display: flex;
+}
+
+/* ContextComponent */
+
+.context-component-container {
+  transition: all 0.5s ease;
+}
+
+.dark {
+  color: white;
+  background-color: black;
+}
